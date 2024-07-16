@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO_UML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a1553e66779bdb471d614c313773d44aa412450")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b52cf3bf70ed88bc9fdb8b4e49fa83a41b551e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO_UML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO_UML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
